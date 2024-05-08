@@ -34,10 +34,45 @@ nav a {
 /* nav a:hover {
   color: #666;
 } */
-
+.nav-item {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 .nav-link {
   color: gray;
+  justify-content: center;
+  align-items: center;
 }
 .nav-link:hover {
   color: gray;
 }
+
+#hero {
+  background-image: url("./img/essential-oil-3816410_1920.jpg");
+  background-size: cover;
+  /* height: 100vh; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+  padding-bottom: 15em;
+}
+.row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.col {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.fs-2 {
+  text-align: center;
+}
+/* .w-100 {
+  max-height: 700px;
+  max-width: 700px;
+} */
