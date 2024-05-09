@@ -80,3 +80,25 @@ nav a {
 .imgPrice {
   height: 150px;
 }
+.ms-3 {
+  padding: 5px;
+}
+
+.whatsapp {
+  list-style-image: url(./img/whatsapp.svg);
+}
+.facebook {
+  list-style-image: url(./img/facebook.svg);
+}
+.instagram {
+  list-style-image: url(./img/instagram.svg);
+}
+.messenger {
+  list-style-image: url(./img/messenger.svg);
+}
+.maps {
+  list-style-image: url(./img/geo-alt-fill.svg);
+}
+ul li:hover {
+  cursor: pointer;
+}
