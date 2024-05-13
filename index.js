@@ -10,12 +10,12 @@ links.forEach((link) => {
   });
 });
 
-$(".whatsapp").click(function () {
-  alert("click happened");
-//   window.location = "www.facebook.com";
-  console.log("click happened");
-  return false;
-});
+// $(".whatsapp").click(function () {
+//   alert("click happened");
+//   //   window.location = "www.facebook.com";
+//   console.log("click happened");
+//   //   return false;
+// });
 
 // $(".whatsapp").on("click", function (event) {
 //   event.preventDefault();
