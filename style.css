@@ -85,19 +85,44 @@ nav a {
 }
 
 .whatsapp {
-  list-style-image: url(./img/whatsapp.svg);
+  /* list-style-image: url(./img/whatsapp.svg); */
+  width: 25px;
+  height: 25px;
+  background-image: url(./img/whatsapp.svg);
+  background-repeat: no-repeat;
+  background-size: 100%;
 }
 .facebook {
-  list-style-image: url(./img/facebook.svg);
+  /* list-style-image: url(./img/facebook.svg); */
+  width: 25px;
+  height: 25px;
+  background-image: url(./img/facebook.svg);
+  background-repeat: no-repeat;
+  background-size: 100%;
 }
 .instagram {
-  list-style-image: url(./img/instagram.svg);
+  /* list-style-image: url(./img/instagram.svg); */
+  width: 25px;
+  height: 25px;
+  background-image: url(./img/instagram.svg);
+  background-repeat: no-repeat;
+  background-size: 100%;
 }
 .messenger {
-  list-style-image: url(./img/messenger.svg);
+  /* list-style-image: url(./img/messenger.svg); */
+  width: 25px;
+  height: 25px;
+  background-image: url(./img/messenger.svg);
+  background-repeat: no-repeat;
+  background-size: 100%;
 }
 .maps {
-  list-style-image: url(./img/geo-alt-fill.svg);
+  /* list-style-image: url(./img/geo-alt-fill.svg); */
+  width: 25px;
+  height: 25px;
+  background-image: url(./img/geo-alt-fill.svg);
+  background-repeat: no-repeat;
+  background-size: 100%;
 }
 ul li:hover {
   cursor: pointer;
